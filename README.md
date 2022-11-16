@@ -1,2 +1,1 @@
-### Simulation-and-modelling-lab
-Simulation and modelling lab 
+### Simulation-and-Modelling-Lab
